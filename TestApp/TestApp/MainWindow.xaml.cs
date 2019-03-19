@@ -24,6 +24,10 @@ namespace TestApp
         {
             InitializeComponent();
             string title = "Xin chao";
+            string content = "1611020018_Nhan Ngọc Dương";
+            MessageBox.Show(
+                title,
+                content);
         }
     }
 }
